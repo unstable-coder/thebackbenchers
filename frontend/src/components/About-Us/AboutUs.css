@@ -1,0 +1,17 @@
+.text-justify {
+    text-align: justify;
+}
+
+.heading-color {
+    color: #67A8FD;
+}
+
+.what-we-offer {
+    transition: transform 0.3s, box-shadow 0.3s; /* Add transition for smooth effect */
+}
+  
+.what-we-offer:hover {
+    /* transform: scale(1.1); */
+    transform: translateY(-15px);
+    box-shadow: 0 0 150px 0 rgba(196, 206, 213, 0.7);
+}

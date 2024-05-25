@@ -1,0 +1,23 @@
+.slick-slide > div {
+  margin: 0px 20px;
+}
+
+.bg-color-1 {
+  background-image: linear-gradient(to right, #37234f, #6a4198);
+}
+
+.bg-color-2 {
+    background-image: linear-gradient(to right, #3e747b, #508fa7);
+}
+
+.bg-color-3 {
+    background-image: linear-gradient(to right, #b89c56, #deae31);
+}
+
+.bg-color-4 {
+    background-image: linear-gradient(to right, #c84d6a, #e76683);
+}
+
+.bg-color-5 {
+    background-image: linear-gradient(to right, #3e7b4b, #50a766);
+}
